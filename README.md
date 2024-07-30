@@ -1,4 +1,4 @@
-# Project Title
+# The Little Taco Shop
 
 This is a Litte Taco Shop. The project is a duplication and modification based on a challenge provided by the Dave Gray.
 
