@@ -15,7 +15,7 @@ The purpose of this project was to practice and enhance my skills in HTML and CS
 ## Project Details
 
 - **Technologies Used:** HTML, CSS
-- **Project Status:** [In Progress] 
+- **Project Status:** Complete
 
 ## Credits and Attribution
 
